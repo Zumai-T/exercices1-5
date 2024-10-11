@@ -1,0 +1,98 @@
+header {
+    color: navy;
+    background-color: skyblue;
+    height: 2.5em;
+    border-bottom-right-radius: 3rem;
+    padding-top: 1em;
+    text-align: center;
+    font-size: larger;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+
+}
+
+body {
+    background-color: aliceblue;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: navy
+}
+
+div {
+    color: navy;
+    border-left-style: solid;
+    border-left-width: 1.5em;
+    border-left-color: skyblue;
+    padding-left: 1em;
+    width: 65%;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    border-left-style: solid;
+    border-left-width: 1.5em;
+    border-left-color: skyblue;
+    padding-left: 1em;
+    color: navy;
+    width: 65%;
+    display: block;
+    margin: auto;
+}
+
+strong {
+    color: navy;
+    font-size: large;
+    padding-left: 12%;
+}
+
+hr {
+    color: navy;
+    border-top: 0.1em;
+    border-radius: 6em;
+    border-style: solid;
+    width: 50%;
+
+}
+
+#book {
+    max-width: 16rem;
+    height: 16rem;
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+strong {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    table-layout: auto;
+    color: navy;
+    background-color: azure;
+    width: 65%;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+footer {
+    padding-top: 1em;
+    background-color: skyblue;
+    height: 2.5em;
+    border-top-left-radius: 3rem;
+    box-shadow: -5px -5px 10px 0px rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,57 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: plum;
+    padding-top: 1em;
+
+}
+
+body {
+    border-style: solid;
+    border-color: plum;
+}
+
+#biscuit {
+    width: 60%;
+    height: auto;
+}
+
+figcaption {
+    font-size: large;
+    
+}
+
+div {
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+h2 {
+    color: plum;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding-bottom: 1em;
+}
+
+footer {
+    padding-bottom: 1em;
+}
+
+#download {
+    background-color: plum;
+    text-align: center;
+    height: 4em;
+    padding-top: 2em;
+}
+
+#link {
+
+    color: white;
+    font-size: x-large;
+
+}
